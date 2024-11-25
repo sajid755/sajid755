@@ -79,6 +79,20 @@
   </tr>
 </table>
 
+<!-- Programming Profiles -->
+<a href="https://leetcode.com/u/qWERTYx86/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-orange?style=flat&logo=leetcode&logoColor=white" alt="LeetCode Profile" />
+  </a>
+  <a href="https://codeforces.com/profile/qWERTYx86" target="_blank">
+    <img src="https://img.shields.io/badge/Codeforces-blue?style=flat&logo=codeforces&logoColor=white" alt="Codeforces Profile" />
+  </a>
+  <a href="https://www.codechef.com/users/your-username" target="_blank">
+    <img src="https://img.shields.io/badge/CodeChef-brown?style=flat&logo=codechef&logoColor=white" alt="CodeChef Profile" />
+  </a>
+  <a href="https://atcoder.jp/users/qWERTYx86" target="_blank">
+    <img src="https://img.shields.io/badge/AtCoder-yellow?style=flat&logo=atcoder&logoColor=white" alt="AtCoder Profile" />
+</a>
+
 <!-- prettier-ignore-start -->
 <!-- prettier-ignore-end -->
 
