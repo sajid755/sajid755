@@ -12,6 +12,16 @@
 
 <br>
 
+<div align="center">
+  <img width="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sajid-777&layout=compact&hide_title=1&card_width=300" alt="Top language used in my repos" />
+  <br />
+  <small>Languages used in my public repos - big fan of Java </small>
+  <br />
+  <br />
+</div>
+
+<br>
+
 <h2 align="left" id="macropower-tech">Favorite Tech</h2>
 
 > Tools, languages, and other things that I like to work with.
@@ -20,7 +30,7 @@
   <tr>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="./img/go-flat.svg" width="48" height="48" alt="Golang" />
+        <img src="./img/csharp-original.svg" width="48" height="48" alt="c#" />
       </a>
       <br>Go
     </td>
@@ -74,6 +84,6 @@
 
 <!-- links -->
 
-[84.51°]: https://technonext.com "Technonext Website"
+[TechnoNext]: https://www.technonext.com "Technonext Website"
 [linkedin]: https://www.linkedin.com/in/saif365 "Sajidul Islam LinkedIn"
 [gmail]: https://github.com/MacroPower/homelab "MacroPower/homelab"
