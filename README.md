@@ -1,9 +1,18 @@
-<h1 align="left" id="macropower-title">:wave: Hello there! I'm Sajidul Islam</h1>
-<h3 align="left">I am a Full Stack Developer</h3>
+<h1 align="center" id="macropower-title">👋 Hello there! I'm <span>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=F7C922&center=true&vCenter=true&width=435&lines=Sajidul+Islam" alt="Typing SVG">
+</span>
+</h1>
+<h3 align="center">I am a Full Stack Developer from Bangladesh</h3>
 
-<p align="left">
+<p align="center">
   <a href="https://github.com/sajid-777/sajid-777">
     <img src="https://komarev.com/ghpvc/?username=sajid-777" alt="page views" />
+  </a>
+  <a href="mailto:sajidul.saif.71@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  <a href="https://www.linkedin.com/in/saif365">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
 
@@ -32,19 +41,19 @@
       <a href="#macropower-tech">
         <img src="./img/csharp-original.svg" width="48" height="48" alt="c#" />
       </a>
-      <br>Go
+      <br>C#
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="./img/python-original.svg" width="48" height="48" alt="Python" />
+        <img src="./img/icons8-java.svg" width="48" height="48" alt="java" />
       </a>
-      <br>Python
+      <br>Java
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="https://jsonnet.org/img/isologo.svg" width="48" height="48" alt="Jsonnet" />
+        <img src="./img/Bash.svg" width="48" height="48" alt="Bash" />
       </a>
-      <br>Jsonnet
+      <br>Bash
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
@@ -72,9 +81,9 @@
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech" >
-        <img src="https://raw.githubusercontent.com/grafana/grafana/master/public/img/grafana_icon.svg" width="48" height="48" alt="Grafana" />
+        <img src="./img/icons8-angular.svg" width="48" height="48" alt="Angular" />
       </a>
-      <br>Grafana
+      <br>Angular
     </td>
   </tr>
 </table>
@@ -85,7 +94,7 @@
 
 <h2 align="left" id="macropower-tech">Online Judges</h2>
 
-> Various Online Judges where I solve Programms.
+> Various Online Judges where I solve Problems.
 
 <a href="https://leetcode.com/u/qWERTYx86/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-orange?style=flat&logo=leetcode&logoColor=white" alt="LeetCode Profile" />
