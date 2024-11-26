@@ -1,7 +1,12 @@
 <h1 align="center" style="display: flex; justify-content: center; align-items: center; gap: 10px;">
   👋 Hello there! I'm 
 </h1>
-  <img align="center" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=DC143C&center=true&vCenter=true&width=435&lines=Sajidul+Islam" alt="Typing SVG" style="horizontal-align: center;">
+<h1 align="center">
+    <img 
+        src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&color=DC143C&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Sajidul+Islam;" 
+        alt="Typing SVG" 
+    />
+</h1>
 
 <h3 align="center">I am a Full Stack Developer from Bangladesh</h3>
 
