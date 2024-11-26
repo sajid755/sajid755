@@ -29,10 +29,10 @@
 
 <table>
   <tr>
-    <td align="left">
+    <td align="left" style="padding: 0;">
       <img src="https://github-readme-streak-stats.herokuapp.com?user=sajid-777&theme=darcula&hide_border=true&background=FFFFFF00&card_width=400" alt="GitHub Streak Stats" />
     </td>
-    <td align="right">
+    <td align="right" style="padding: 0;">
       <img width="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sajid-777&layout=compact&hide_title=1&card_width=400" alt="Top languages used in my repos" />
     </td>
   </tr>
