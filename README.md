@@ -27,7 +27,10 @@
 
 <br>
 
-<div align="center">
+<div align="right">
+<img src ="https://github-readme-streak-stats.herokuapp.com?user=sajid-777&theme=darcula&hide_border=true&background=FFFFFF00">
+</div>
+<div align="left">
   <img width="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sajid-777&layout=compact&hide_title=1&card_width=300" alt="Top language used in my repos" />
   <br />
   <small>Languages used in my public repos - big fan of Java </small>
