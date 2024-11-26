@@ -1,8 +1,6 @@
 <h1 align="center" style="display: flex; justify-content: center; align-items: center; gap: 10px;">
   👋 Hello there! I'm 
-  <span>
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=DC143C&center=true&vCenter=true&width=435&lines=Sajidul+Islam" alt="Typing SVG" style="vertical-align: middle;">
-  </span>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=DC143C&center=true&vCenter=true&width=435&lines=Sajidul+Islam" alt="Typing SVG" style="vertical-align: middle;">
 </h1>
 
 <h3 align="center">I am a Full Stack Developer from Bangladesh</h3>
@@ -20,9 +18,12 @@
 </p>
 
 <div align="center">
-- :office: &nbsp;I'm currently working at **[TechnoNext]**
-- :computer: &nbsp;Connect with me on **[LinkedIn]**
+
+- :office: &nbsp; I'm currently working at **[TechnoNext]**
+- :computer: &nbsp; Connect with me on **[LinkedIn]**
+
 </div>
+
 <br>
 
 <div align="center">
