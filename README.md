@@ -22,7 +22,6 @@
 <div align="center">
 
 :office: &nbsp; I'm currently working at **[TechnoNext]**
-:computer: &nbsp; Connect with me on **[LinkedIn]**
 
 </div>
 
