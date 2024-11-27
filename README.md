@@ -94,7 +94,7 @@
 <!-- Temporary  -->
 <table align="center">
   <tr>
-    <td colspan="2" align="center" valign="top">
+    <td align="center" valign="top" width="50%">
       <h2 align="left" id="programming-languages">Programming Languages</h2>
       <table>
         <tr>
@@ -125,9 +125,7 @@
         </tr>
       </table>
     </td>
-  </tr>
-  <tr>
-    <td colspan="2" align="center" valign="top">
+    <td align="center" valign="top" width="50%">
       <h2 align="left" id="framework-sdk">Frameworks and SDKs</h2>
       <table>
         <tr>
@@ -154,7 +152,7 @@
     </td>
   </tr>
   <tr>
-    <td colspan="2" align="center" valign="top">
+    <td align="center" valign="top" width="50%">
       <h2 align="left" id="database">Database</h2>
       <table>
         <tr>
@@ -173,9 +171,7 @@
         </tr>
       </table>
     </td>
-  </tr>
-  <tr>
-    <td colspan="2" align="center" valign="top">
+    <td align="center" valign="top" width="50%">
       <h2 align="left" id="web-programming">Web Programming</h2>
       <table>
         <tr>
@@ -208,7 +204,7 @@
     </td>
   </tr>
   <tr>
-    <td colspan="2" align="center" valign="top">
+    <td align="center" valign="top" width="50%">
       <h2 align="left" id="devops">DevOps</h2>
       <table>
         <tr>
@@ -227,9 +223,22 @@
         </tr>
       </table>
     </td>
+    <td align="center" valign="top" width="50%">
+      <h2 align="left" id="version-control">Version Control</h2>
+      <table>
+        <tr>
+          <td align="center" width="80">
+            <a href="#version-control">
+              <img src="./img/icons8-git.svg" width="80" height="80" alt="Git" />
+            </a>
+            <br>Git
+          </td>
+        </tr>
+      </table>
+    </td>
   </tr>
   <tr>
-    <td colspan="2" align="center" valign="top">
+    <td align="center" valign="top" colspan="2">
       <h2 align="left" id="operating-systems">Operating Systems</h2>
       <table>
         <tr>
