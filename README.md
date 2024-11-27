@@ -228,7 +228,7 @@
           </td>
           <td align="center" width="80">
             <a href="#web-programming">
-              <img src="./img/512px-Neovim-mark.svg.png" width="60" height="60" alt="NeoVIm" />
+              <img src="./img/512px-Neovim-mark.svg.png" width="40" height="40" alt="NeoVIm" />
             </a>
             <br><br>Neo Vim
           </td>
