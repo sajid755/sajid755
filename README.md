@@ -101,7 +101,7 @@
 <table align="center">
   <tr>
     <td align="center" valign="top" width="50%">
-      <h2 align="left" id="programming-languages">Programming Languages</h2>
+      <h2 align="center" id="programming-languages">Programming Languages</h2>
       <table>
         <tr>
           <td align="center" width="80">
@@ -132,7 +132,7 @@
       </table>
     </td>
     <td align="center" valign="top" width="50%">
-      <h2 align="left" id="framework-sdk">Frameworks and SDKs</h2>
+      <h2 align="center" id="framework-sdk">Frameworks and SDKs</h2>
       <table>
         <tr>
           <td align="center" width="80">
@@ -192,7 +192,7 @@
   </tr>
   <tr>
     <td align="center" valign="top" width="50%">
-      <h2 align="left" id="database">Database</h2>
+      <h2 align="center" id="database">Database</h2>
       <table>
         <tr>
           <td align="center" width="80">
@@ -211,7 +211,7 @@
       </table>
     </td>
     <td align="center" valign="top" width="50%">
-      <h2 align="left" id="web-programming">IDE</h2>
+      <h2 align="center" id="IDE">IDE</h2>
       <table>
         <tr>
           <td align="center" width="80">
@@ -239,7 +239,7 @@
   </tr>
   <tr>
     <td align="center" valign="top" width="50%">
-      <h2 align="left" id="devops">DevOps</h2>
+      <h2 align="center" id="devops">DevOps</h2>
       <table>
         <tr>
           <td align="center" width="80">
@@ -258,7 +258,7 @@
       </table>
     </td>
     <td align="center" valign="top" width="50%">
-      <h2 align="left" id="version-control">Version Control</h2>
+      <h2 align="center" id="version-control">Version Control</h2>
       <table>
         <tr>
           <td align="center" width="80">
@@ -273,7 +273,7 @@
   </tr>
   <tr>
     <td align="center" valign="top" colspan="2">
-      <h2 align="left" id="operating-systems">Operating Systems</h2>
+      <h2 align="center" id="operating-systems">Operating Systems</h2>
       <table>
         <tr>
           <td align="center" width="80">
