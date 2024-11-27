@@ -135,13 +135,13 @@
   <tr>
     <td align="center" width="96">
       <a href="#database">
-        <img src="./img/mssql-original.svg" width="48" height="48" alt="MSSQL" />
+        <img src="./img/SQL Developer.svg" width="48" height="48" alt="MSSQL" />
       </a>
       <br>MSSQL
     </td>
     <td align="center" width="96">
       <a href="#database">
-        <img src="./img/postgresql-original.svg" width="48" height="48" alt="PostgreSQL" />
+        <img src="./img/PostgresSQL.svg" width="48" height="48" alt="PostgreSQL" />
       </a>
       <br>PostgreSQL
     </td>
@@ -241,7 +241,7 @@
     </td>
     <td align="center" width="96">
       <a href="#devops">
-        <img src="./img/elastic-original.svg" width="48" height="48" alt="ElasticSearch" />
+        <img src="./img/Elastic Search.svg" width="48" height="48" alt="ElasticSearch" />
       </a>
       <br>ElasticSearch
     </td>
