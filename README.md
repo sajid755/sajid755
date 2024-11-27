@@ -230,7 +230,7 @@
             <a href="#web-programming" width="80" height="80">
               <img src="./img/neovimio-icon.svg" width="50" height="50" alt="NeoVIm" />
             </a>
-            <br>Neo Vim
+            <br><br>Neo Vim
           </td>
         </tr>
       </table>
