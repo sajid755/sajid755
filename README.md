@@ -227,6 +227,7 @@
             <br>Visual Studio
           </td>
           <td align="center" width="80">
+          <br>
             <a href="#web-programming" width="80" height="80">
               <img src="./img/neovimio-icon.svg" width="50" height="50" alt="NeoVIm" />
             </a>
