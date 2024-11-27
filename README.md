@@ -196,7 +196,6 @@
       <table>
         <tr>
           <td align="center" width="80">
-          <br><br>
             <a href="#database">
               <img src="./img/SQL Developer.svg" width="80" height="80" alt="MSSQL" />
             </a>
