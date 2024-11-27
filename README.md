@@ -154,7 +154,7 @@
   <tr>
     <td align="center" width="96">
       <a href="#framework-sdk">
-        <img src="./img/dotnet-original.svg" width="48" height="48" alt=".NET 8" />
+        <img src="./img/NET core.svg" width="48" height="48" alt=".NET 8" />
       </a>
       <br>.NET 8
     </td>
@@ -166,7 +166,7 @@
     </td>
     <td align="center" width="96">
       <a href="#framework-sdk">
-        <img src="./img/android-original.svg" width="48" height="48" alt="Android" />
+        <img src="./img/Android.svg" width="48" height="48" alt="Android" />
       </a>
       <br>Android
     </td>
