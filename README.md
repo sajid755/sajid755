@@ -164,7 +164,7 @@
           </td>
           <td align="center" width="80">
             <a href="#database">
-              <img src="./img/PostgresSQL.svg" width="80" height="80" alt="PostgreSQL" />
+              <img src="./img/PostgresSQL.svg" width="70" height="80" alt="PostgreSQL" />
             </a>
             <br>PostgreSQL
           </td>
@@ -216,7 +216,7 @@
           </td>
           <td align="center" width="80">
             <a href="#devops">
-              <img src="./img/Elastic Search.svg" width="80" height="80" alt="ElasticSearch" />
+              <img src="./img/Elastic Search.svg" width="70" height="80" alt="ElasticSearch" />
             </a>
             <br>ElasticSearch
           </td>
