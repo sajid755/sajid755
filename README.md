@@ -44,7 +44,7 @@
 
 Tools, languages, and other things that I like to work with.
 
-<table>
+<table align="center">
   <tr>
     <td align="center" width="96">
       <a >
@@ -268,10 +268,10 @@ Tools, languages, and other things that I like to work with.
 
 <!-- Programming Profiles -->
 
-<h2 align="left" id="macropower-tech">Online Judges</h2>
+<h2 align="center" id="macropower-tech">Online Judges</h2>
 
-> Various Online Judges where I solve Problems.
-
+<p align="center">Various Online Judges where I solve Problems.</p>
+<div align="center">
 <a href="https://leetcode.com/u/qWERTYx86/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-orange?style=flat&logo=leetcode&logoColor=white" alt="LeetCode Profile" />
   </a>
@@ -284,6 +284,7 @@ Tools, languages, and other things that I like to work with.
   <a href="https://atcoder.jp/users/qWERTYx86" target="_blank">
     <img src="https://img.shields.io/badge/AtCoder-yellow?style=flat&logo=atcoder&logoColor=white" alt="AtCoder Profile" />
 </a>
+</div>
 
 <!-- prettier-ignore-start -->
 <!-- prettier-ignore-end -->
