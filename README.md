@@ -210,7 +210,7 @@
     </td>
   </tr>
   <tr>
-    <td align="center" valign="top" width="100%">
+    <td colspan="2" align="center" valign="top" width="100%">
       <h2 align="left" id="web-programming">Web Programming</h2>
       <table>
         <tr>
