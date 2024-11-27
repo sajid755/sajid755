@@ -40,50 +40,50 @@
 
 <br>
 
-<h2 align="left" id="macropower-tech">Favorite Tech</h2>
+<h2 align="center">Favorite Tech</h2>
 
-> Tools, languages, and other things that I like to work with.
+Tools, languages, and other things that I like to work with.
 
 <table>
   <tr>
     <td align="center" width="96">
-      <a href="#macropower-tech">
+      <a >
         <img src="./img/csharp-original.svg" width="48" height="48" alt="c#" />
       </a>
       <br>C#
     </td>
     <td align="center" width="96">
-      <a href="#macropower-tech">
+      <a>
         <img src="./img/icons8-java.svg" width="48" height="48" alt="java" />
       </a>
       <br>Java
     </td>
-    <td align="center" width="96">
+    <td>
       <a href="#macropower-tech">
         <img src="./img/Bash.svg" width="48" height="48" alt="Bash" />
       </a>
       <br>Bash
     </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech">
+    <td>
+      <a >
         <img src="./img/typescript-original.svg" width="48" height="48" alt="TypeScript" />
       </a>
       <br>TypeScript
     </td>
     <td align="center" width="96"> 
-      <a href="#macropower-tech" >
+      <a >
         <img src="./img/docker-original.svg" width="48" height="48" alt="Docker" />
       </a>
       <br>Docker
     </td>
     <td align="center"  width="96">
-      <a href="#macropower-tech">
+      <a >
         <img src="./img/debian-original.svg" width="48" height="48" alt="Debian" />
       </a>
       <br>Debian
     </td>
     <td align="center" width="96">
-      <a href="#macropower-tech" >
+      <a  >
         <img src="./img/icons8-angular.svg" width="48" height="48" alt="Angular" />
       </a>
       <br>Angular
@@ -92,6 +92,10 @@
 </table>
 
 <!-- Temporary  -->
+<h1 align="center" id="technical-skills">
+  ✨ Technical Skills ✨
+</h1>
+
 <table align="center">
   <tr>
     <td align="center" valign="top" width="50%">
