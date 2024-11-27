@@ -179,15 +179,27 @@
   <tr>
     <td align="center" width="96">
       <a href="#web-programming">
-        <img src="./img/html5-original.svg" width="48" height="48" alt="HTML" />
+        <img src="./img/icons8-html.svg" width="48" height="48" alt="HTML" />
       </a>
       <br>HTML
     </td>
     <td align="center" width="96">
       <a href="#web-programming">
-        <img src="./img/css3-original.svg" width="48" height="48" alt="CSS" />
+        <img src="./img/icons8-css.svg" width="48" height="48" alt="CSS" />
       </a>
       <br>CSS
+    </td>
+    <td align="center" width="96">
+      <a href="#web-programming">
+        <img src="./img/icons8-tailwind-css.svg" width="48" height="48" alt="Tailwind" />
+      </a>
+      <br>Tailwind
+    </td>
+    <td align="center" width="96">
+      <a href="#web-programming">
+        <img src="./img/bootstrap-plain.svg" width="48" height="48" alt="Bootstrap" />
+      </a>
+      <br>Bootstrap
     </td>
     <td align="center" width="96">
       <a href="#web-programming">
@@ -210,7 +222,7 @@
   <tr>
     <td align="center" width="96">
       <a href="#version-control">
-        <img src="./img/git-original.svg" width="48" height="48" alt="Git" />
+        <img src="./img/icons8-git.svg" width="48" height="48" alt="Git" />
       </a>
       <br>Git
     </td>
