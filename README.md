@@ -122,7 +122,7 @@
     </td>
     <td align="center" width="96">
       <a href="#programming-languages">
-        <img src="./img/cplusplus-original.svg" width="48" height="48" alt="C++" />
+        <img src="./img/C++ (CPlusPlus).svg" width="48" height="48" alt="C++" />
       </a>
       <br>C++
     </td>
@@ -254,13 +254,13 @@
   <tr>
     <td align="center" width="96">
       <a href="#operating-systems">
-        <img src="./img/linux-original.svg" width="48" height="48" alt="Linux" />
+        <img src="./img/Linux.svg" width="48" height="48" alt="Linux" />
       </a>
       <br>Linux
     </td>
     <td align="center" width="96">
       <a href="#operating-systems">
-        <img src="./img/windows-original.svg" width="48" height="48" alt="Windows" />
+        <img src="./img/Windows 8.svg" width="48" height="48" alt="Windows" />
       </a>
       <br>Windows
     </td>
