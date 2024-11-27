@@ -210,6 +210,39 @@
     </td>
   </tr>
   <tr>
+    <td align="center" valign="top" width="100%">
+      <h2 align="left" id="web-programming">Web Programming</h2>
+      <table>
+        <tr>
+          <td align="center" width="80">
+            <a href="#web-programming">
+              <img src="./img/icons8-html.svg" width="80" height="80" alt="HTML" />
+            </a>
+            <br>HTML
+          </td>
+          <td align="center" width="80">
+            <a href="#web-programming">
+              <img src="./img/icons8-css.svg" width="80" height="80" alt="CSS" />
+            </a>
+            <br>CSS
+          </td>
+          <td align="center" width="80">
+            <a href="#web-programming">
+              <img src="./img/javascript-original.svg" width="80" height="80" alt="JavaScript" />
+            </a>
+            <br>JavaScript
+          </td>
+          <td align="center" width="80">
+            <a href="#web-programming">
+              <img src="./img/typescript-original.svg" width="80" height="80" alt="TypeScript" />
+            </a>
+            <br>TypeScript
+          </td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+  <tr>
     <td align="center" valign="top" width="50%">
       <h2 align="left" id="devops">DevOps</h2>
       <table>
