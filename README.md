@@ -42,7 +42,7 @@
 
 <h2 align="center">Favorite Tech</h2>
 
-Tools, languages, and other things that I like to work with.
+<p align="center">Tools, languages, and other things that I like to work with </p>
 
 <table align="center">
   <tr>
@@ -90,6 +90,8 @@ Tools, languages, and other things that I like to work with.
     </td>
   </tr>
 </table>
+
+<br>
 
 <!-- Temporary  -->
 <h1 align="center" id="technical-skills">
