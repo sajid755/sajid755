@@ -158,27 +158,8 @@
     </td>
   </tr>
   <tr>
-    <td align="center" valign="top" width="50%">
-      <h2 align="left" id="database">Database</h2>
-      <table>
-        <tr>
-          <td align="center" width="80">
-            <a href="#database">
-              <img src="./img/SQL Developer.svg" width="80" height="80" alt="MSSQL" />
-            </a>
-            <br>MSSQL
-          </td>
-          <td align="center" width="80">
-            <a href="#database">
-              <img src="./img/PostgresSQL.svg" width="70" height="80" alt="PostgreSQL" />
-            </a>
-            <br>PostgreSQL
-          </td>
-        </tr>
-      </table>
-    </td>
-    <td align="center" valign="top" width="50%">
-      <h2 align="left" id="web-programming">Web Programming</h2>
+    <td colspan="2" align="center" valign="top" width="100%">
+      <h2 align="center" id="web-programming">Web Programming</h2>
       <table>
         <tr>
           <td align="center" width="80">
@@ -210,33 +191,46 @@
     </td>
   </tr>
   <tr>
-    <td colspan="2" align="center" valign="top" width="100%">
-      <h2 align="left" id="web-programming">Web Programming</h2>
+    <td align="center" valign="top" width="50%">
+      <h2 align="left" id="database">Database</h2>
+      <table>
+        <tr>
+          <td align="center" width="80">
+            <a href="#database">
+              <img src="./img/SQL Developer.svg" width="80" height="80" alt="MSSQL" />
+            </a>
+            <br>MSSQL
+          </td>
+          <td align="center" width="80">
+            <a href="#database">
+              <img src="./img/PostgresSQL.svg" width="70" height="80" alt="PostgreSQL" />
+            </a>
+            <br>PostgreSQL
+          </td>
+        </tr>
+      </table>
+    </td>
+    <td align="center" valign="top" width="50%">
+      <h2 align="left" id="web-programming">IDE</h2>
       <table>
         <tr>
           <td align="center" width="80">
             <a href="#web-programming">
-              <img src="./img/icons8-html.svg" width="80" height="80" alt="HTML" />
+              <img src="./img/icons8-vs-code.svg" width="80" height="80" alt="vs code" />
             </a>
-            <br>HTML
+            <br>VS Code
           </td>
           <td align="center" width="80">
             <a href="#web-programming">
-              <img src="./img/icons8-css.svg" width="80" height="80" alt="CSS" />
+              <img src="./img/icons8-visual-studio.svg" width="80" height="80" alt="VS" />
             </a>
-            <br>CSS
+            <br>Visual Studio
           </td>
           <td align="center" width="80">
             <a href="#web-programming">
-              <img src="./img/javascript-original.svg" width="80" height="80" alt="JavaScript" />
+              <img src="./img/neovimio-icon.svg" width="80" height="80" alt="NeoVIm" />
             </a>
-            <br>JavaScript
-          </td>
-          <td align="center" width="80">
-            <a href="#web-programming">
-              <img src="./img/typescript-original.svg" width="80" height="80" alt="TypeScript" />
-            </a>
-            <br>TypeScript
+            <br>NeoVim
           </td>
         </tr>
       </table>
