@@ -92,171 +92,176 @@
 </table>
 
 <!-- Temporary  -->
-<h2 align="left" id="programming-languages">Programming Languages</h2>
-
 <table>
   <tr>
-    <td align="center" width="80">
-      <a href="#programming-languages">
-        <img src="./img/csharp-original.svg" width="48" height="48" alt="C#" />
-      </a>
-      <br>C#
+    <td align="center" valign="top" width="50%">
+      <h2 align="left" id="programming-languages">Programming Languages</h2>
+      <table>
+        <tr>
+          <td align="center" width="96">
+            <a href="#programming-languages">
+              <img src="./img/csharp-original.svg" width="48" height="48" alt="C#" />
+            </a>
+            <br>C#
+          </td>
+          <td align="center" width="96">
+            <a href="#programming-languages">
+              <img src="./img/icons8-java.svg" width="48" height="48" alt="Java" />
+            </a>
+            <br>Java
+          </td>
+        </tr>
+        <tr>
+          <td align="center" width="96">
+            <a href="#programming-languages">
+              <img src="./img/python-original.svg" width="48" height="48" alt="Python" />
+            </a>
+            <br>Python
+          </td>
+          <td align="center" width="96">
+            <a href="#programming-languages">
+              <img src="./img/C++ (CPlusPlus).svg" width="48" height="48" alt="C++" />
+            </a>
+            <br>C++
+          </td>
+        </tr>
+      </table>
     </td>
-    <td align="center" width="80">
-      <a href="#programming-languages">
-        <img src="./img/icons8-java.svg" width="48" height="48" alt="Java" />
-      </a>
-      <br>Java
-    </td>
-    <td align="center" width="80">
-      <a href="#programming-languages">
-        <img src="./img/python-original.svg" width="48" height="48" alt="Python" />
-      </a>
-      <br>Python
-    </td>
-    <td align="center" width="80">
-      <a href="#programming-languages">
-        <img src="./img/C++ (CPlusPlus).svg" width="48" height="48" alt="C++" />
-      </a>
-      <br>C++
+    <td align="center" valign="top" width="50%">
+      <h2 align="left" id="framework-sdk">Frameworks and SDKs</h2>
+      <table>
+        <tr>
+          <td align="center" width="96">
+            <a href="#framework-sdk">
+              <img src="./img/NET core.svg" width="48" height="48" alt=".NET 8" />
+            </a>
+            <br>.NET 8
+          </td>
+          <td align="center" width="96">
+            <a href="#framework-sdk">
+              <img src="./img/icons8-angular.svg" width="48" height="48" alt="Angular" />
+            </a>
+            <br>Angular
+          </td>
+        </tr>
+        <tr>
+          <td align="center" width="96">
+            <a href="#framework-sdk">
+              <img src="./img/Android.svg" width="48" height="48" alt="Android" />
+            </a>
+            <br>Android
+          </td>
+        </tr>
+      </table>
     </td>
   </tr>
-</table>
-
-<h2 align="left" id="database">Database</h2>
-
-<table>
   <tr>
-    <td align="center" width="80">
-      <a href="#database">
-        <img src="./img/SQL Developer.svg" width="48" height="48" alt="MSSQL" />
-      </a>
-      <br>MSSQL
+    <td align="center" valign="top" width="50%">
+      <h2 align="left" id="database">Database</h2>
+      <table>
+        <tr>
+          <td align="center" width="96">
+            <a href="#database">
+              <img src="./img/SQL Developer.svg" width="48" height="48" alt="MSSQL" />
+            </a>
+            <br>MSSQL
+          </td>
+          <td align="center" width="96">
+            <a href="#database">
+              <img src="./img/PostgresSQL.svg" width="48" height="48" alt="PostgreSQL" />
+            </a>
+            <br>PostgreSQL
+          </td>
+        </tr>
+      </table>
     </td>
-    <td align="center" width="80">
-      <a href="#database">
-        <img src="./img/PostgresSQL.svg" width="48" height="48" alt="PostgreSQL" />
-      </a>
-      <br>PostgreSQL
+    <td align="center" valign="top" width="50%">
+      <h2 align="left" id="web-programming">Web Programming</h2>
+      <table>
+        <tr>
+          <td align="center" width="96">
+            <a href="#web-programming">
+              <img src="./img/icons8-html.svg" width="48" height="48" alt="HTML" />
+            </a>
+            <br>HTML
+          </td>
+          <td align="center" width="96">
+            <a href="#web-programming">
+              <img src="./img/icons8-css.svg" width="48" height="48" alt="CSS" />
+            </a>
+            <br>CSS
+          </td>
+        </tr>
+        <tr>
+          <td align="center" width="96">
+            <a href="#web-programming">
+              <img src="./img/javascript-original.svg" width="48" height="48" alt="JavaScript" />
+            </a>
+            <br>JavaScript
+          </td>
+          <td align="center" width="96">
+            <a href="#web-programming">
+              <img src="./img/typescript-original.svg" width="48" height="48" alt="TypeScript" />
+            </a>
+            <br>TypeScript
+          </td>
+        </tr>
+      </table>
     </td>
   </tr>
-</table>
-
-<h2 align="left" id="framework-sdk">Frameworks and SDKs</h2>
-
-<table>
   <tr>
-    <td align="center" width="80">
-      <a href="#framework-sdk">
-        <img src="./img/NET core.svg" width="48" height="48" alt=".NET 8" />
-      </a>
-      <br>.NET 8
+    <td align="center" valign="top" width="50%">
+      <h2 align="left" id="version-control">Version Control</h2>
+      <table>
+        <tr>
+          <td align="center" width="96">
+            <a href="#version-control">
+              <img src="./img/icons8-git.svg" width="48" height="48" alt="Git" />
+            </a>
+            <br>Git
+          </td>
+        </tr>
+      </table>
     </td>
-    <td align="center" width="80">
-      <a href="#framework-sdk">
-        <img src="./img/icons8-angular.svg" width="48" height="48" alt="Angular" />
-      </a>
-      <br>Angular
-    </td>
-    <td align="center" width="80">
-      <a href="#framework-sdk">
-        <img src="./img/Android.svg" width="48" height="48" alt="Android" />
-      </a>
-      <br>Android
+    <td align="center" valign="top" width="50%">
+      <h2 align="left" id="devops">DevOps</h2>
+      <table>
+        <tr>
+          <td align="center" width="96">
+            <a href="#devops">
+              <img src="./img/docker-original.svg" width="48" height="48" alt="Docker" />
+            </a>
+            <br>Docker
+          </td>
+          <td align="center" width="96">
+            <a href="#devops">
+              <img src="./img/Elastic Search.svg" width="48" height="48" alt="ElasticSearch" />
+            </a>
+            <br>ElasticSearch
+          </td>
+        </tr>
+      </table>
     </td>
   </tr>
-</table>
-
-<h2 align="left" id="web-programming">Web Programming</h2>
-
-<table>
   <tr>
-    <td align="center" width="80">
-      <a href="#web-programming">
-        <img src="./img/icons8-html.svg" width="48" height="48" alt="HTML" />
-      </a>
-      <br>HTML
-    </td>
-    <td align="center" width="80">
-      <a href="#web-programming">
-        <img src="./img/icons8-css.svg" width="48" height="48" alt="CSS" />
-      </a>
-      <br>CSS
-    </td>
-    <td align="center" width="80">
-      <a href="#web-programming">
-        <img src="./img/icons8-tailwind-css.svg" width="48" height="48" alt="Tailwind" />
-      </a>
-      <br>Tailwind
-    </td>
-    <td align="center" width="80">
-      <a href="#web-programming">
-        <img src="./img/bootstrap-plain.svg" width="48" height="48" alt="Bootstrap" />
-      </a>
-      <br>Bootstrap
-    </td>
-    <td align="center" width="80">
-      <a href="#web-programming">
-        <img src="./img/javascript-original.svg" width="48" height="48" alt="JavaScript" />
-      </a>
-      <br>JavaScript
-    </td>
-    <td align="center" width="80">
-      <a href="#web-programming">
-        <img src="./img/typescript-original.svg" width="48" height="48" alt="TypeScript" />
-      </a>
-      <br>TypeScript
-    </td>
-  </tr>
-</table>
-
-<h2 align="left" id="version-control">Version Control</h2>
-
-<table>
-  <tr>
-    <td align="center" width="80">
-      <a href="#version-control">
-        <img src="./img/icons8-git.svg" width="48" height="48" alt="Git" />
-      </a>
-      <br>Git
-    </td>
-  </tr>
-</table>
-
-<h2 align="left" id="devops">DevOps</h2>
-
-<table>
-  <tr>
-    <td align="center" width="80">
-      <a href="#devops">
-        <img src="./img/docker-original.svg" width="48" height="48" alt="Docker" />
-      </a>
-      <br>Docker
-    </td>
-    <td align="center" width="80">
-      <a href="#devops">
-        <img src="./img/Elastic Search.svg" width="48" height="48" alt="ElasticSearch" />
-      </a>
-      <br>ElasticSearch
-    </td>
-  </tr>
-</table>
-
-<h2 align="left" id="operating-systems">Operating Systems</h2>
-
-<table>
-  <tr>
-    <td align="center" width="80">
-      <a href="#operating-systems">
-        <img src="./img/Linux.svg" width="48" height="48" alt="Linux" />
-      </a>
-      <br>Linux
-    </td>
-    <td align="center" width="80">
-      <a href="#operating-systems">
-        <img src="./img/Windows 8.svg" width="48" height="48" alt="Windows" />
-      </a>
-      <br>Windows
+    <td align="center" valign="top" colspan="2">
+      <h2 align="left" id="operating-systems">Operating Systems</h2>
+      <table>
+        <tr>
+          <td align="center" width="96">
+            <a href="#operating-systems">
+              <img src="./img/Linux.svg" width="48" height="48" alt="Linux" />
+            </a>
+            <br>Linux
+          </td>
+          <td align="center" width="96">
+            <a href="#operating-systems">
+              <img src="./img/Windows 8.svg" width="48" height="48" alt="Windows" />
+            </a>
+            <br>Windows
+          </td>
+        </tr>
+      </table>
     </td>
   </tr>
 </table>
