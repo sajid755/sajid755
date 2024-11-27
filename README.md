@@ -92,7 +92,7 @@
 </table>
 
 <!-- Temporary  -->
-<table align="center" style="width: 100%;">
+<table align="center" style="width: 250px;">
   <tr>
     <td align="center" valign="top" width="50%">
       <h2 align="left" id="programming-languages">Programming Languages</h2>
