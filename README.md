@@ -30,7 +30,7 @@
 <table>
   <tr>
     <td align="left" style="padding: 0;">
-      <img src="https://github-readme-streak-stats.herokuapp.com?user=sajid-777&theme=darcula&hide_border=true&background=FFFFFF00&card_width=400" alt="GitHub Streak Stats" />
+      <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=sajid-777" alt="GitHub Streak" /></a>
     </td>
     <td align="right" style="padding: 0;">
       <img width="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sajid-777&layout=compact&hide_title=1&card_width=400" alt="Top languages used in my repos" />
@@ -323,5 +323,3 @@
 
 [TechnoNext]: https://www.technonext.com "Technonext Website"
 [linkedin]: https://www.linkedin.com/in/saif365 "Sajidul Islam LinkedIn"
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=sajid-777&theme=dark)](https://git.io/streak-stats)
