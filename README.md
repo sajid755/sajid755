@@ -151,7 +151,7 @@
             <a href="#framework-sdk">
               <img src="./img/spring-svgrepo-com.svg" width="80" height="80" alt="spring Boot" />
             </a>
-            <br>Android
+            <br>Spring Boot
           </td>
         </tr>
       </table>
