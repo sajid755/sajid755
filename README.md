@@ -149,7 +149,7 @@
           </td>
           <td align="center" width="80">
             <a href="#framework-sdk">
-              <img src="./img/Android.svg" width="80" height="80" alt="Android" />
+              <img src="./img/spring.png" width="80" height="80" alt="spring Boot" />
             </a>
             <br>Android
           </td>
