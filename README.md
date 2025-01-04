@@ -324,4 +324,4 @@
 [TechnoNext]: https://www.technonext.com "Technonext Website"
 [linkedin]: https://www.linkedin.com/in/saif365 "Sajidul Islam LinkedIn"
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=sajid-777&theme=dark)](https://git.io/streak-stats)
