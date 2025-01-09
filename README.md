@@ -30,10 +30,10 @@
 <table>
   <tr>
     <td align="left" style="padding: 0;">
-    <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-three.vercel.app?user=sajid-777" alt="GitHub Streak" /></a>
+    <img src="https://stats.justsong.cn/api/leetcode/?username=qWERTYx86&theme=light" alt="LeetCode Stats" />
     </td>
     <td align="right" style="padding: 0;">
-      <img width="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sajid-777&layout=pie&hide_title=1&card_width=400" alt="Top languages used in my repos" />
+      <img width="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sajid-777&layout=compact&hide_title=1&card_width=400" alt="Top languages used in my repos" />
     </td>
   </tr>
 </table>
