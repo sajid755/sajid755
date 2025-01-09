@@ -27,8 +27,6 @@
 
 <br>
 
-<br>
-
 <h2 align="center">Favorite Tech</h2>
 
 <p align="center">Tools, languages, and other things that I like to work with </p>
@@ -285,19 +283,6 @@
 
 <br>
 
-<table>
-  <tr>
-    <td align="left" style="padding: 0;">
-    <img src="https://stats.justsong.cn/api/leetcode/?username=qWERTYx86&theme=light" alt="LeetCode Stats" />
-    </td>
-    <td align="right" style="padding: 0;">
-      <img width="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sajid-777&layout=compact&hide_title=1&card_width=400" alt="Top languages used in my repos" />
-    </td>
-  </tr>
-</table>
-
-<br>
-
 <!-- Programming Profiles -->
 
 <h2 align="center" id="macropower-tech">Online Judges</h2>
@@ -317,6 +302,19 @@
     <img src="https://img.shields.io/badge/AtCoder-yellow?style=flat&logo=atcoder&logoColor=white" alt="AtCoder Profile" />
 </a>
 </div>
+
+<br>
+
+<table>
+  <tr>
+    <td align="left" style="padding: 0;">
+    <img src="https://stats.justsong.cn/api/leetcode/?username=qWERTYx86&theme=light" alt="LeetCode Stats" />
+    </td>
+    <td align="right" style="padding: 0;">
+      <img width="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sajid-777&layout=compact&hide_title=1&card_width=400" alt="Top languages used in my repos" />
+    </td>
+  </tr>
+</table>
 
 <!-- prettier-ignore-start -->
 <!-- prettier-ignore-end -->
