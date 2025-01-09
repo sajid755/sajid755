@@ -27,17 +27,6 @@
 
 <br>
 
-<table>
-  <tr>
-    <td align="left" style="padding: 0;">
-    <img src="https://stats.justsong.cn/api/leetcode/?username=qWERTYx86&theme=light" alt="LeetCode Stats" />
-    </td>
-    <td align="right" style="padding: 0;">
-      <img width="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sajid-777&layout=compact&hide_title=1&card_width=400" alt="Top languages used in my repos" />
-    </td>
-  </tr>
-</table>
-
 <br>
 
 <h2 align="center">Favorite Tech</h2>
@@ -290,6 +279,19 @@
           </td>
         </tr>
       </table>
+    </td>
+  </tr>
+</table>
+
+<br>
+
+<table>
+  <tr>
+    <td align="left" style="padding: 0;">
+    <img src="https://stats.justsong.cn/api/leetcode/?username=qWERTYx86&theme=light" alt="LeetCode Stats" />
+    </td>
+    <td align="right" style="padding: 0;">
+      <img width="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sajid-777&layout=compact&hide_title=1&card_width=400" alt="Top languages used in my repos" />
     </td>
   </tr>
 </table>
