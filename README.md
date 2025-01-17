@@ -295,7 +295,7 @@
   <a href="https://codeforces.com/profile/qWERTYx86" target="_blank">
     <img src="https://img.shields.io/badge/Codeforces-blue?style=flat&logo=codeforces&logoColor=white" alt="Codeforces Profile" />
   </a>
-  <a href="https://www.codechef.com/users/your-username" target="_blank">
+  <a href="https://www.codechef.com/users/elric_x86" target="_blank">
     <img src="https://img.shields.io/badge/CodeChef-brown?style=flat&logo=codechef&logoColor=white" alt="CodeChef Profile" />
   </a>
   <a href="https://atcoder.jp/users/qWERTYx86" target="_blank">
