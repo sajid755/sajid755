@@ -1,9 +1,6 @@
-<!-- Header Section -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&pause=1000&color=3B82F6&center=true&vCenter=true&width=450&lines=Hi+there,+I'm+Sajid!👋;Software+Engineer;Full+Stack+Developer;AI+Integrations+Engineer" alt="Typing SVG" />
-</p>
+# Hi there, I'm Sajid! 👋
 
-<p align="center">
+<p align="left">
   <a href="https://github.com/sajid755/sajid755">
     <img src="https://komarev.com/ghpvc/?username=sajid755&color=3b82f6&style=flat-square" alt="Profile Views" />
   </a>
@@ -13,6 +10,10 @@
   <a href="mailto:sajidsaif755@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
+</p>
+
+<p align="left">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=3B82F6&center=false&vCenter=true&width=450&lines=Software+Engineer;Full+Stack+Developer;AI+Integrations+Engineer" alt="Typing SVG" />
 </p>
 
 ---
@@ -44,48 +45,17 @@ I am a motivated **Software Engineer** from Bangladesh with expertise in buildin
 
 ---
 
-### 🛠️ Technical Skills
+### 🛠️ Technical Skills & Tools
 
-<table align="center" width="100%">
-  <tr>
-    <td align="center" valign="top" width="50%">
-      <h4>💻 Languages & Core</h4>
-      <img src="img/csharp-original.svg" width="36" height="36" alt="C#" title="C#" />&nbsp;
-      <img src="img/python-original.svg" width="36" height="36" alt="Python" title="Python" />&nbsp;
-      <img src="img/icons8-java.svg" width="36" height="36" alt="Java" title="Java" />&nbsp;
-      <img src="img/typescript-original.svg" width="36" height="36" alt="TypeScript" title="TypeScript" />&nbsp;
-      <img src="img/javascript-original.svg" width="36" height="36" alt="JavaScript" title="JavaScript" />&nbsp;
-      <img src="img/C++ (CPlusPlus).svg" width="36" height="36" alt="C++" title="C++" />&nbsp;
-      <img src="img/Bash.svg" width="36" height="36" alt="Bash" title="Bash" />
-    </td>
-    <td align="center" valign="top" width="50%">
-      <h4>⚙️ Frameworks & Web</h4>
-      <img src="img/NET core.svg" width="36" height="36" alt=".NET" title=".NET" />&nbsp;
-      <img src="img/icons8-angular.svg" width="36" height="36" alt="Angular" title="Angular" />&nbsp;
-      <img src="img/spring-svgrepo-com.svg" width="36" height="36" alt="Spring Boot" title="Spring Boot" />&nbsp;
-      <img src="img/icons8-html.svg" width="36" height="36" alt="HTML5" title="HTML5" />&nbsp;
-      <img src="img/icons8-css.svg" width="36" height="36" alt="CSS3" title="CSS3" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center" valign="top" width="50%">
-      <h4>🗄️ Databases & DevOps</h4>
-      <img src="img/PostgresSQL.svg" width="36" height="36" alt="PostgreSQL" title="PostgreSQL" />&nbsp;
-      <img src="img/SQL Developer.svg" width="36" height="36" alt="MSSQL" title="MSSQL" />&nbsp;
-      <img src="img/docker-original.svg" width="36" height="36" alt="Docker" title="Docker" />&nbsp;
-      <img src="img/Elastic Search.svg" width="36" height="36" alt="ElasticSearch/OpenSearch" title="ElasticSearch/OpenSearch" />
-    </td>
-    <td align="center" valign="top" width="50%">
-      <h4>🛠️ Tools & Libraries</h4>
-      <img src="img/neovimio-icon.svg" width="36" height="36" alt="Neovim" title="Neovim" />&nbsp;
-      <img src="img/icons8-vs-code.svg" width="36" height="36" alt="VS Code" title="VS Code" />&nbsp;
-      <img src="img/icons8-git.svg" width="36" height="36" alt="Git" title="Git" />&nbsp;
-      <img src="img/Linux.svg" width="36" height="36" alt="Linux" title="Linux" />
-      <br/>
-      <code>LangChain</code> • <code>Agno</code> • <code>Blacksheep</code> • <code>SignalR</code>
-    </td>
-  </tr>
-</table>
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=cs,py,java,ts,js,cpp,bash,dotnet,angular,spring,html,css,postgres,mysql,docker,elasticsearch,neovim,vscode,git,linux" alt="My Skills" />
+  </a>
+</p>
+
+<p align="left">
+  <code>LangChain</code> • <code>Agno</code> • <code>Blacksheep</code> • <code>SignalR</code> • <code>OpenSearch</code>
+</p>
 
 ---
 
@@ -118,7 +88,7 @@ I am a motivated **Software Engineer** from Bangladesh with expertise in buildin
       <img src="https://stats.justsong.cn/api/leetcode/?username=qWERTYx86&theme=light" alt="LeetCode Stats" style="max-width: 100%; border-radius: 8px;" />
     </td>
     <td align="center" valign="middle" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sajid755&layout=compact&hide_title=0&theme=flat&card_width=380" alt="Top Languages" style="max-width: 100%; border-radius: 8px;" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sajid755&layout=compact&hide_title=0&theme=flat&card_width=380" alt="Top Languages" style="max-width: 100%; border-radius: 8px;" />
     </td>
   </tr>
 </table>
