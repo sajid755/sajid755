@@ -1,325 +1,131 @@
-<h1 align="center" style="display: flex; justify-content: center; align-items: center; gap: 10px;">
-  👋 Hello there! I'm 
-</h1>
-<h1 align="center">
-     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=DC143C&center=true&vCenter=true&width=435&lines=Sajidul+Islam" alt="Typing SVG" style="vertical-align: middle;">
-</h1>
-
-<h3 align="center">I am a Full Stack Developer from Bangladesh</h3>
+<!-- Header Section -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&pause=1000&color=3B82F6&center=true&vCenter=true&width=450&lines=Hi+there,+I'm+Sajid!👋;Software+Engineer;Full+Stack+Developer;AI+Integrations+Engineer" alt="Typing SVG" />
+</p>
 
 <p align="center">
-  <a href="https://github.com/sajid-777/sajid-777">
-    <img src="https://komarev.com/ghpvc/?username=sajid-777" alt="page views" />
+  <a href="https://github.com/sajid755/sajid755">
+    <img src="https://komarev.com/ghpvc/?username=sajid755&color=3b82f6&style=flat-square" alt="Profile Views" />
   </a>
-  <a href="mailto:sajidul.saif.71@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" alt="Gmail" />
+  <a href="https://www.linkedin.com/in/sajid755">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://www.linkedin.com/in/saif365">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <a href="mailto:sajidsaif755@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
 </p>
 
-<div align="center">
+---
 
-:office: &nbsp; I'm currently working at **[TechnoNext]**
+### 🚀 About Me
 
-</div>
+I am a motivated **Software Engineer** from Bangladesh with expertise in building scalable backend services, integrating APIs, and developing Generative AI applications (RAG pipelines, AI agents). I am an alumnus of **Khulna University of Engineering & Technology (KUET)**.
 
-<br>
+*   💼 **Current Role:** Software Engineer at **[OnnoRokom Projukti Ltd]**
+*   🌱 **Focused On:** Generative AI, LLM Orchestration (LangChain, Agno), Vector Databases, and .NET Core microservices.
+*   🎓 **Alma Mater:** Khulna University of Engineering and Technology (KUET), B.Sc. in CSE (April 2023)
+*   🔧 **Preferred Setup:** Linux (Debian) + Neovim 🚀
 
-<h2 align="center">Favorite Tech</h2>
+---
 
-<p align="center">Tools, languages, and other things that I like to work with </p>
+### 💼 Work Experience
 
-<table align="center">
+#### **[OnnoRokom Projukti Ltd]** *(July 2025 – Present)*
+**Software Engineer**
+*   Designed and developed scalable AI solutions and agents using **.NET** and **Python** (Generative AI).
+*   Integrated **RAG pipelines** and vector stores into AI agents for one of the largest EdTech platforms in Bangladesh ([AI Teacher](https://aiteacher.udvash-unmesh.com)).
+*   Implemented intelligent search capabilities using **OpenSearch** for real-time data retrieval.
+*   Built responsive user interfaces with **React** to interact with AI workflows.
+
+#### **[TechnoNext]** *(Feb 2024 – June 2025)*
+**Junior Software Engineer**
+*   Developed and maintained scalable web applications using **.NET Core** for backend services and **Angular** for frontend development.
+*   Integrated multiple AirLines APIs into the company's B2B OTA webservices.
+
+---
+
+### 🛠️ Technical Skills
+
+<table align="center" width="100%">
   <tr>
-    <td align="center" width="96">
-      <a >
-        <img src="./img/csharp-original.svg" width="48" height="48" alt="c#" />
-      </a>
-      <br>C#
+    <td align="center" valign="top" width="50%">
+      <h4>💻 Languages & Core</h4>
+      <img src="img/csharp-original.svg" width="36" height="36" alt="C#" title="C#" />&nbsp;
+      <img src="img/python-original.svg" width="36" height="36" alt="Python" title="Python" />&nbsp;
+      <img src="img/icons8-java.svg" width="36" height="36" alt="Java" title="Java" />&nbsp;
+      <img src="img/typescript-original.svg" width="36" height="36" alt="TypeScript" title="TypeScript" />&nbsp;
+      <img src="img/javascript-original.svg" width="36" height="36" alt="JavaScript" title="JavaScript" />&nbsp;
+      <img src="img/C++ (CPlusPlus).svg" width="36" height="36" alt="C++" title="C++" />&nbsp;
+      <img src="img/Bash.svg" width="36" height="36" alt="Bash" title="Bash" />
     </td>
-    <td align="center" width="96">
-      <a>
-        <img src="./img/icons8-java.svg" width="48" height="48" alt="java" />
-      </a>
-      <br>Java
+    <td align="center" valign="top" width="50%">
+      <h4>⚙️ Frameworks & Web</h4>
+      <img src="img/NET core.svg" width="36" height="36" alt=".NET" title=".NET" />&nbsp;
+      <img src="img/icons8-angular.svg" width="36" height="36" alt="Angular" title="Angular" />&nbsp;
+      <img src="img/spring-svgrepo-com.svg" width="36" height="36" alt="Spring Boot" title="Spring Boot" />&nbsp;
+      <img src="img/icons8-html.svg" width="36" height="36" alt="HTML5" title="HTML5" />&nbsp;
+      <img src="img/icons8-css.svg" width="36" height="36" alt="CSS3" title="CSS3" />
     </td>
-    <td>
-      <a href="#macropower-tech">
-        <img src="./img/Bash.svg" width="48" height="48" alt="Bash" />
-      </a>
-      <br>Bash
+  </tr>
+  <tr>
+    <td align="center" valign="top" width="50%">
+      <h4>🗄️ Databases & DevOps</h4>
+      <img src="img/PostgresSQL.svg" width="36" height="36" alt="PostgreSQL" title="PostgreSQL" />&nbsp;
+      <img src="img/SQL Developer.svg" width="36" height="36" alt="MSSQL" title="MSSQL" />&nbsp;
+      <img src="img/docker-original.svg" width="36" height="36" alt="Docker" title="Docker" />&nbsp;
+      <img src="img/Elastic Search.svg" width="36" height="36" alt="ElasticSearch/OpenSearch" title="ElasticSearch/OpenSearch" />
     </td>
-    <td>
-      <a >
-        <img src="./img/typescript-original.svg" width="48" height="48" alt="TypeScript" />
-      </a>
-      <br>TypeScript
-    </td>
-    <td align="center" width="96"> 
-      <a >
-        <img src="./img/docker-original.svg" width="48" height="48" alt="Docker" />
-      </a>
-      <br>Docker
-    </td>
-    <td align="center"  width="96">
-      <a >
-        <img src="./img/debian-original.svg" width="48" height="48" alt="Debian" />
-      </a>
-      <br>Debian
-    </td>
-    <td align="center" width="96">
-      <a  >
-        <img src="./img/icons8-angular.svg" width="48" height="48" alt="Angular" />
-      </a>
-      <br>Angular
+    <td align="center" valign="top" width="50%">
+      <h4>🛠️ Tools & Libraries</h4>
+      <img src="img/neovimio-icon.svg" width="36" height="36" alt="Neovim" title="Neovim" />&nbsp;
+      <img src="img/icons8-vs-code.svg" width="36" height="36" alt="VS Code" title="VS Code" />&nbsp;
+      <img src="img/icons8-git.svg" width="36" height="36" alt="Git" title="Git" />&nbsp;
+      <img src="img/Linux.svg" width="36" height="36" alt="Linux" title="Linux" />
+      <br/>
+      <code>LangChain</code> • <code>Agno</code> • <code>Blacksheep</code> • <code>SignalR</code>
     </td>
   </tr>
 </table>
 
-<br>
+---
 
-<!-- Temporary  -->
-<h1 align="center" id="technical-skills">
-  ✨ Technical Skills ✨
-</h1>
+### 📂 Featured Personal Projects
 
-<table align="center">
-  <tr>
-    <td align="center" valign="top" width="50%">
-      <h2 align="center" id="programming-languages">Programming Languages</h2>
-      <table>
-        <tr>
-          <td align="center" width="80">
-            <a href="#programming-languages">
-              <img src="./img/csharp-original.svg" width="80" height="80" alt="C#" />
-            </a>
-            <br>C#
-          </td>
-          <td align="center" width="80">
-            <a href="#programming-languages">
-              <img src="./img/icons8-java.svg" width="80" height="80" alt="Java" />
-            </a>
-            <br>Java
-          </td>
-          <td align="center" width="80">
-            <a href="#programming-languages">
-              <img src="./img/python-original.svg" width="80" height="80" alt="Python" />
-            </a>
-            <br>Python
-          </td>
-          <td align="center" width="80">
-            <a href="#programming-languages">
-              <img src="./img/C++ (CPlusPlus).svg" width="80" height="80" alt="C++" />
-            </a>
-            <br>C++
-          </td>
-        </tr>
-      </table>
-    </td>
-    <td align="center" valign="top" width="50%">
-      <h2 align="center" id="framework-sdk">Frameworks and SDKs</h2>
-      <table>
-        <tr>
-          <td align="center" width="80">
-            <a href="#framework-sdk">
-              <img src="./img/NET core.svg" width="80" height="80" alt=".NET 8" />
-            </a>
-            <br>.NET 8
-          </td>
-          <td align="center" width="80">
-            <a href="#framework-sdk">
-              <img src="./img/icons8-angular.svg" width="80" height="80" alt="Angular" />
-            </a>
-            <br>Angular
-          </td>
-          <td align="center" width="80">
-            <a href="#framework-sdk">
-              <img src="./img/spring-svgrepo-com.svg" width="80" height="80" alt="spring Boot" />
-            </a>
-            <br>Spring
-          </td>
-        </tr>
-      </table>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" align="center" valign="top" width="100%">
-      <h2 align="center" id="web-programming">Web Programming</h2>
-      <table>
-        <tr>
-          <td align="center" width="80">
-            <a href="#web-programming">
-              <img src="./img/icons8-html.svg" width="80" height="80" alt="HTML" />
-            </a>
-            <br>HTML
-          </td>
-          <td align="center" width="80">
-            <a href="#web-programming">
-              <img src="./img/icons8-css.svg" width="80" height="80" alt="CSS" />
-            </a>
-            <br>CSS
-          </td>
-          <td align="center" width="80">
-            <a href="#web-programming">
-              <img src="./img/javascript-original.svg" width="80" height="80" alt="JavaScript" />
-            </a>
-            <br>JavaScript
-          </td>
-          <td align="center" width="80">
-            <a href="#web-programming">
-              <img src="./img/typescript-original.svg" width="80" height="80" alt="TypeScript" />
-            </a>
-            <br>TypeScript
-          </td>
-        </tr>
-      </table>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" valign="top" width="50%">
-      <h2 align="center" id="database">Database</h2>
-      <table>
-        <tr>
-          <td align="center" width="80">
-            <a href="#database">
-              <img src="./img/SQL Developer.svg" width="80" height="80" alt="MSSQL" />
-            </a>
-            <br>MSSQL
-          </td>
-          <td align="center" width="80">
-            <a href="#database">
-              <img src="./img/PostgresSQL.svg" width="70" height="80" alt="PostgreSQL" />
-            </a>
-            <br>PostgreSQL
-          </td>
-        </tr>
-      </table>
-    </td>
-    <td align="center" valign="top" width="50%">
-      <h2 align="center" id="IDE">IDE</h2>
-      <table>
-        <tr>
-          <td align="center" width="80">
-            <a href="#web-programming">
-              <img src="./img/icons8-vs-code.svg" width="80" height="80" alt="vs code" />
-            </a>
-            <br>VS Code
-          </td>
-          <td align="center" width="80">
-            <a href="#web-programming">
-              <img src="./img/icons8-visual-studio.svg" width="80" height="80" alt="VS" />
-            </a>
-            <br>Visual Studio
-          </td>
-          <td align="center" width="80">
-          <br>
-            <a href="#web-programming" width="80" height="80">
-              <img src="./img/neovimio-icon.svg" width="50" height="50" alt="NeoVIm" />
-            </a>
-            <br><br>Neo Vim
-          </td>
-        </tr>
-      </table>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" valign="top" width="50%">
-      <h2 align="center" id="devops">DevOps</h2>
-      <table>
-        <tr>
-          <td align="center" width="80">
-            <a href="#devops">
-              <img src="./img/docker-original.svg" width="80" height="80" alt="Docker" />
-            </a>
-            <br>Docker
-          </td>
-          <td align="center" width="80">
-            <a href="#devops">
-              <img src="./img/Elastic Search.svg" width="70" height="80" alt="ElasticSearch" />
-            </a>
-            <br>ElasticSearch
-          </td>
-        </tr>
-      </table>
-    </td>
-    <td align="center" valign="top" width="50%">
-      <h2 align="center" id="version-control">Version Control</h2>
-      <table>
-        <tr>
-          <td align="center" width="80">
-            <a href="#version-control">
-              <img src="./img/icons8-git.svg" width="80" height="80" alt="Git" />
-            </a>
-            <br>Git
-          </td>
-        </tr>
-      </table>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" valign="top" colspan="2">
-      <h2 align="center" id="operating-systems">Operating Systems</h2>
-      <table>
-        <tr>
-          <td align="center" width="80">
-            <a href="#operating-systems">
-              <img src="./img/Linux.svg" width="80" height="80" alt="Linux" />
-            </a>
-            <br>Linux
-          </td>
-          <td align="center" width="80">
-            <a href="#operating-systems">
-              <img src="./img/Windows 8.svg" width="80" height="80" alt="Windows" />
-            </a>
-            <br>Windows
-          </td>
-        </tr>
-      </table>
-    </td>
-  </tr>
-</table>
+*   🤖 **NL2SQL-Agent**: A Natural Language to SQL Agent allowing users to interact with databases using plain English. Built with **LangChain**, **Python**, and **PostgreSQL**.
+*   💬 **Pop Up Chat**: Real-time customer support chat application enabling seamless live interactions. Built with **.NET Core**, **Angular**, **MSSQL**, and **SignalR**.
+*   🛒 **eBazzar**: Robust e-commerce backend component. Built with **Spring Boot**, **Spring Data JPA**, **Spring Security**, **MySQL**, and **Docker**.
+*   📋 **Digital Attendance System**: Machine learning system using the KNN algorithm to detect faces and update Excel sheets in real time. Built with **Python** and **Tkinter**.
 
-<br>
+---
 
-<!-- Programming Profiles -->
+### 🏆 Coding Profiles & Stats
 
-<h2 align="center" id="macropower-tech">Online Judges</h2>
-
-<p align="center">Various Online Judges where I solve Problems.</p>
-<div align="center">
-<a href="https://leetcode.com/u/qWERTYx86/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-orange?style=flat&logo=leetcode&logoColor=white" alt="LeetCode Profile" />
+<p align="center">
+  <a href="https://leetcode.com/u/qWERTYx86/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
   </a>
   <a href="https://codeforces.com/profile/qWERTYx86" target="_blank">
-    <img src="https://img.shields.io/badge/Codeforces-blue?style=flat&logo=codeforces&logoColor=white" alt="Codeforces Profile" />
+    <img src="https://img.shields.io/badge/Codeforces-44533C?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces" />
   </a>
   <a href="https://www.codechef.com/users/elric_x86" target="_blank">
-    <img src="https://img.shields.io/badge/CodeChef-brown?style=flat&logo=codechef&logoColor=white" alt="CodeChef Profile" />
+    <img src="https://img.shields.io/badge/CodeChef-5B4636?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef" />
   </a>
-  <a href="https://atcoder.jp/users/qWERTYx86" target="_blank">
-    <img src="https://img.shields.io/badge/AtCoder-yellow?style=flat&logo=atcoder&logoColor=white" alt="AtCoder Profile" />
-</a>
-</div>
+</p>
 
-<br>
-
-<table>
+<table align="center" width="100%">
   <tr>
-    <td align="left" style="padding: 0;">
-    <img src="https://stats.justsong.cn/api/leetcode/?username=qWERTYx86&theme=light" alt="LeetCode Stats" />
+    <td align="center" valign="middle" width="50%">
+      <img src="https://stats.justsong.cn/api/leetcode/?username=qWERTYx86&theme=light" alt="LeetCode Stats" style="max-width: 100%; border-radius: 8px;" />
     </td>
-    <td align="right" style="padding: 0;">
-      <img width="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sajid755&layout=compact&hide_title=1&card_width=400" alt="Top languages used in my repos" />
+    <td align="center" valign="middle" width="50%">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sajid755&layout=compact&hide_title=0&theme=flat&card_width=380" alt="Top Languages" style="max-width: 100%; border-radius: 8px;" />
     </td>
   </tr>
 </table>
 
-<!-- prettier-ignore-start -->
-<!-- prettier-ignore-end -->
+---
 
-<!-- links -->
-
-[TechnoNext]: https://www.technonext.com "Technonext Website"
-[linkedin]: https://www.linkedin.com/in/saif365 "Sajidul Islam LinkedIn"
+<!-- Links & Anchors -->
+[OnnoRokom Projukti Ltd]: https://aiteacher.udvash-unmesh.com "Udvash Unmesh AI Teacher"
+[TechnoNext]: https://www.technonext.com "TechnoNext Website"
+[linkedin]: https://www.linkedin.com/in/sajid755 "Sajidul Islam LinkedIn"
