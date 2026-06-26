@@ -96,6 +96,6 @@ I am a motivated **Software Engineer** from Bangladesh with expertise in buildin
 ---
 
 <!-- Links & Anchors -->
-[OnnoRokom Projukti Ltd]: https://aiteacher.udvash-unmesh.com "Udvash Unmesh AI Teacher"
+[OnnoRokom Projukti Ltd]: https://onnorokomprojukti.com "OnnoRokom Projukti Website"
 [TechnoNext]: https://www.technonext.com "TechnoNext Website"
 [linkedin]: https://www.linkedin.com/in/sajid755 "Sajidul Islam LinkedIn"
